@@ -1,6 +1,6 @@
 # ing-poc
 
-> A Vue.js project
+Our ing test project
 
 ## Build Setup
 
