@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sembogaarts/ING-POC/issues"
   },
-  "homepage": "https://github.com/sembogaarts/ING-POC#readme"
+  "homepage": "https://github.com/sembogaarts/ING-POC#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
